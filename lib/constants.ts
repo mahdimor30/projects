@@ -1,0 +1,17 @@
+export const SKILLS_OPTION = [
+  { value: 1, label: "React" },
+  { value: 2, label: "TypeScript" },
+  { value: 3, label: "Node.js" },
+  { value: 4, label: "Python" },
+  { value: 5, label: "Flutter" },
+  { value: 6, label: "React Native" },
+  { value: 7, label: "AWS" },
+  { value: 8, label: "Azure" },
+  { value: 9, label: "Docker" },
+  { value: 10, label: "Figma" },
+  { value: 11, label: "PostgreSQL" },
+  { value: 12, label: "MongoDB" },
+  { value: 13, label: "GraphQL" },
+  { value: 14, label: "TensorFlow" },
+  { value: 15, label: "Kubernetes" },
+]
